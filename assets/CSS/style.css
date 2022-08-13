@@ -1,0 +1,13 @@
+/* Este es un comentario */
+
+html {
+  background-color: #000;
+  color: #fff;
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
+
+p,
+li {
+  color: red;
+}
